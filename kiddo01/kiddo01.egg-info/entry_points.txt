@@ -1,0 +1,2 @@
+[console_scripts]
+kiddo01 = kiddo01.cli:main

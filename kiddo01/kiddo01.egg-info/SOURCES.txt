@@ -1,0 +1,7 @@
+setup.py
+kiddo01.egg-info/PKG-INFO
+kiddo01.egg-info/SOURCES.txt
+kiddo01.egg-info/dependency_links.txt
+kiddo01.egg-info/entry_points.txt
+kiddo01.egg-info/requires.txt
+kiddo01.egg-info/top_level.txt

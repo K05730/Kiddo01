@@ -1,0 +1,20 @@
+Metadata-Version: 2.2
+Name: kiddo01
+Version: 1.0.0
+Summary: An AI-powered programming language with Mistral-7B integration
+Home-page: https://github.com/k05730/kiddo01
+Author: Kris Ledel
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Requires-Dist: torch
+Requires-Dist: transformers
+Requires-Dist: accelerate
+Requires-Dist: sentencepiece
+Dynamic: author
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
